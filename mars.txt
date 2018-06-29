@@ -2,5 +2,7 @@ cold and dry, but everything is my favorite color
 Then two moons may be a problem for sleeping
 I added a new line
 this is a bad version
-WEICHEN added a sentence.
-this is Jialing changing the file.
+WEICHEN added a sentence
+ Jialing changing the file.
+WEICHEN did something again.
+>>>>>>> c2b8bec291eb9432e48b3269496cb38a452c50a4
